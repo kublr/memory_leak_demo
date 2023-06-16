@@ -1,5 +1,5 @@
 # memory_leak_demo
-A demo program to trigger a memory leak in k8s.io/client-go v0.27.x and (somewhat) older.
+A demo program to trigger a memory leak in k8s.io/client-go v0.26.x and newer.
 
 **CAUTION:** this is not a tut0riaI on making a connection pool or using k8s API. 
 This program is intentionally broken (and because I wrote it in a hurry, it might be also unintentionally broken). 
